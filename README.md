@@ -2,7 +2,7 @@
 Time series analysis and Anomaly Detection of Thruster based on synthetic data
 
 
-<img src="Results/result_vis.JPG" width="128"/>
+<img src="Results/result_vis.JPG"/>
 
 # LSTM-AE based approach to detect anomalies in thruster synthetic data.
 
